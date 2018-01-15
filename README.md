@@ -3,6 +3,7 @@
 
 // Upload the Arduino Code to your Arduino board
 // Upload the NodeMCU Code to your NodeMCU board
+// Check Serial Monitor for Servers Local IP
 // Make sure you have ESP8266WiFi.h Library installed, if not search and download it
 
 // Connect pin D7 to Arduino pin 2
@@ -10,7 +11,7 @@
 // Connect Arduino board and NodeMCU board to the same ground
 
 // Connect to the NodeMCU via Wifi on any device with a browser
-// Open browser and in the address bar type in 192.168.4.1
+// Open browser and in the address bar type in the Local IP given in the serial monitor
 // Turn Device 1 button on or off to move the servo from 15 degrees to 180 or vice versa
 
 
